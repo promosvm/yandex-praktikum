@@ -32,7 +32,7 @@
 <tr>
 <td>
 
-[Статистический анализ данных](./yandex-praktikum/data-science/02-статистический-анализ-данных)
+[Статистический анализ данных](https://github.com/promosvm/yandex-praktikum/blob/main/project/02-статистический-анализ-данных/Рекомендация-тарифов.ipynb)
 
 </td>
 <td>
