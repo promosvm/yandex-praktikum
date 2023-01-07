@@ -17,7 +17,7 @@
 <tr>
 <td>
 
-[Исследовательский анализ данных](./yandex-praktikum/blob/main/project/01-исследовательский-анализ-данных/)
+[Исследовательский анализ данных](https://github.com/promosvm/yandex-praktikum/blob/main/project/01-исследовательский-анализ-данных/README.md)
 
 </td>
 <td>
