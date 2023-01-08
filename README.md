@@ -166,7 +166,7 @@
 <tr>
 <td>
 
-[Компьютерное зрение](./yandex-praktikum/data-science/13-компьютерное-зрение)
+[Компьютерное зрение](https://github.com/promosvm/yandex-praktikum/tree/main/project/12-компьютерное-зрение)
 
 </td>
 <td>
