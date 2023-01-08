@@ -48,7 +48,7 @@
 <tr>
 <td>
 
-[Сборный проект - 1](./yandex-praktikum/data-science/03-сборный-проект-1)
+[Сборный проект - 1](https://github.com/promosvm/yandex-praktikum/tree/main/project/03-сборный-проект-1)
 
 </td>
 <td>
