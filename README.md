@@ -153,7 +153,7 @@
 <tr>
 <td>
 
-[Машинное обучение для текста](./yandex-praktikum/data-science/11-машинное-обучение-для-текста)
+[Машинное обучение для текста](https://github.com/promosvm/yandex-praktikum/tree/main/project/11-машинное-обучение-для-текста)
 
 </td>
 <td>
