@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://popsters.ru/blog/content/all/sizes/mceu0sl8vod5d41v2lzdtn0q443uskcc-900x.jpg" width="500"/>
+  <img src="https://sun9-27.userapi.com/impf/jrsM0JsMK-mXA9OSytyiojhdGPqntH7kCNic8Q/a35O5TccXPw.jpg?size=604x324&quality=96&sign=14c17124310e4e824e8489ddc7006151&type=album" width="500"/>
 </div>
 
 # Введение в машинное обучение
