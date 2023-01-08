@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.thesun.co.uk/wp-content/uploads/2018/01/nintchdbpict000344878217.jpg?strip=all&amp;quality=100&amp;w=1200&amp;h=800&amp;crop=1" width="500"/>
+  <img src=" https://popsters.ru/blog/content/all/sizes/mceu0sl8vod5d41v2lzdtn0q443uskcc-900x.jpg" width="500"/>
 </div>
 
 # Обучение с учителем
