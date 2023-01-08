@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://planshet-info.ru/wp-content/uploads/2022/01/преимущества-и-недостатки-машинного-обучения.jpg" width="500"/>
+</div>
+
 # Projects
 
 ## Яндекс.Практикум
