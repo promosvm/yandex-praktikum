@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://popsters.ru/blog/content/all/sizes/mceu0sl8vod5d41v2lzdtn0q443uskcc-900x.jpg" width="500"/>
+  <img src="https://kaminia.ru/wp-content/uploads/1/f/9/1f98d8b5e2360ca6a6aa4c6712471882.jpeg" width="500"/>
 </div>
 
 # Машинное обучение в бизнесе
@@ -14,4 +14,4 @@
 Вам предоставлены пробы нефти в трёх регионах. Характеристики для каждой скважины в регионе уже известны. Постройте модель для определения региона, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap.
 
 ## Решение
-[Открыть Notebook](./solution.ipynb)
+[Открыть Notebook](Выбор-локации-для-скважины.ipynb)
