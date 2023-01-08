@@ -127,7 +127,7 @@
 <tr>
 <td>
 
-[Численные методы](./yandex-praktikum/data-science/09-численные-методы)
+[Численные методы](https://github.com/promosvm/yandex-praktikum/tree/main/project/09-численные-методы)
 
 </td>
 <td>
