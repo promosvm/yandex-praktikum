@@ -88,7 +88,7 @@
 <tr>
 <td>
 
-[Машинное обучение в бизнесе](./yandex-praktikum/data-science/06-машинное-обучение-в-бизнесе)
+[Машинное обучение в бизнесе](https://github.com/promosvm/yandex-praktikum/blob/main/project/06-машинное-обучение-в-бизнесе/README.md)
 
 </td>
 <td>
