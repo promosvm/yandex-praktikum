@@ -101,7 +101,7 @@
 <tr>
 <td>
 
-[Сборный проект - 2](./yandex-praktikum/data-science/07-сборный-проект-2)
+[Сборный проект - 2](https://github.com/promosvm/yandex-praktikum/tree/main/project/07-сборный-проект-2)
 
 </td>
 <td>
