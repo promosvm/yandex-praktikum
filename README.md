@@ -1,12 +1,8 @@
 <div id="header" align="center">
-  <img src="https://planshet-info.ru/wp-content/uploads/2022/01/преимущества-и-недостатки-машинного-обучения.jpg" width="500"/>
+  <img src="https://planshet-info.ru/wp-content/uploads/2022/01/преимущества-и-недостатки-машинного-обучения.jpg" width="1000"/>
 </div>
 
-# Projects
-
-## Яндекс.Практикум
-
-### Специалист по Data Science
+# Специалист по Data Science (Яндекс.Практикум)
 
 <table width="100%" valign="top">
 <thead>
