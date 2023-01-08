@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.profile.ru/wp-content/uploads/2020/04/shutterstock_319643018.jpg" width="100"/>
+  <img src="https://cdn.profile.ru/wp-content/uploads/2020/04/shutterstock_319643018.jpg" width="500"/>
 </div>
 
 # Статистический анализ данных
