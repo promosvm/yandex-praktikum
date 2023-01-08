@@ -140,7 +140,7 @@
 <tr>
 <td>
 
-[Временные ряды](./yandex-praktikum/data-science/10-временные-ряды)
+[Временные ряды](https://github.com/promosvm/yandex-praktikum/tree/main/project/10-временные-ряды)
 
 </td>
 <td>
