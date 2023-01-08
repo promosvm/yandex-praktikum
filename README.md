@@ -62,7 +62,7 @@
 <tr>
 <td>
 
-[Введение в машинное обучение](./yandex-praktikum/data-science/04-введение-в-машинное-обучение) 
+[Введение в машинное обучение](https://github.com/promosvm/yandex-praktikum/tree/main/project/04-введение-в-машинное-обучение) 
 
 </td>
 <td>
