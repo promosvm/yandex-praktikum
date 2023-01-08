@@ -114,7 +114,7 @@
 <tr>
 <td>
 
-[Линейная алгебра](./yandex-praktikum/data-science/08-линейная-алгебра)
+[Линейная алгебра](https://github.com/promosvm/yandex-praktikum/tree/main/project/08-линейная-алгебра)
 
 </td>
 <td>
