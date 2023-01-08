@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://cdn.profile.ru/wp-content/uploads/2020/04/shutterstock_319643018.jpg" width="1000"/>
+</div>
 # Статистический анализ данных
 ## Описание проекта
 
