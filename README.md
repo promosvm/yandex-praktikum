@@ -75,7 +75,7 @@
 <tr>
 <td>
 
-[Обучение с учителем](./yandex-praktikum/data-science/05-обучение-с-учителем)
+[Обучение с учителем](https://github.com/promosvm/yandex-praktikum/tree/main/project/05-обучение-с-учителем)
 
 </td>
 <td>
